@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912462951988",
+    "firebase_url": "https://esp8266-gps-firebase-79154-default-rtdb.firebaseio.com",
+    "project_id": "esp8266-gps-firebase-79154",
+    "storage_bucket": "esp8266-gps-firebase-79154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912462951988:android:1512a06c3ff1881dff7c61",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_more"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912462951988-6mj12ld2i0mga6sfjunrcelf76gs6b26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSzbI9a94gEvJR-25DKRTgExxxaxMFtFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912462951988-6mj12ld2i0mga6sfjunrcelf76gs6b26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
